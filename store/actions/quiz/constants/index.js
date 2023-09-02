@@ -1,0 +1,1 @@
+export const FETCH_QUIZ_DATA = "FETCH_QUIZ_DATA";
